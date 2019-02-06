@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "TwitchName": "TheHugoDahl",
+      "Profile": "Some text.\nCan span multiple lines, have some **MarkDown**, etc.",
+      "GitHubProfile": "HugoDahl",
+      "Social": [
+        {
+          "Platform": "Twitter",
+          "Username": "HugoDahl"
+        },
+        {
+          "Platform": "FaceBook",
+          "Username": "Hugo.Dahl"
+        },
+        {
+          "Platform": "Instagram",
+          "Username": "HugoDahl"
+        }
+      ],
+      "IsStreamer": false,
+      "Discord": {
+        "ID": 361158808501747735,
+        "Name": "HD#7200"
+      },
+      "IsGuest": false,
+      "GuestStreams": [
+        {
+          "Topic": "Stream of the day",
+          "Date": "2019-01-01",
+          "Link": "https://youtube.com/CSharpFritz"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "Platform": "Facebook",
+      "Template": "https://faceboom.com/${Username}"
+    },
+    {
+      "Platform": "Twitter",
+      "Template": "https://twitter.com/${Username}"
+    },
+    {
+      "Platform": "Instagram",
+      "Template": "https://instagram.com/${Username}"
+    },
+    {
+      "Platform": "Twitch",
+      "Template": "https://twitch.tc/${Username}"
+    },
+  ]
+}
